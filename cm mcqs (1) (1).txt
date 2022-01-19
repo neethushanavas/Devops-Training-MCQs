@@ -1,0 +1,176 @@
+ Q1. The items that comprise all information produced as part of the software process are collectively called a __.
+
+A. Software configuration
+B. Software system maintenance
+C. Software change management
+D. All of the mentioned above
+Answer: A) Software configuration
+2. What is Iac(Infrastructure as code)?
+a)writing a program from outside 
+b)programs for industrial use
+c)hardware based programs 
+d)Using a version control system to deploy and manage node configurations
+
+Ans: d
+3. Configuration management is possible only by using automated tools.
+ a. True
+b. False
+ANSWER: False
+4. Which is not a task of a Configuration Management?
+ a. Version control
+b. Reporting
+c. Change management
+d. Quality control
+ANSWER: Quality control
+5. Software configuration management is a set of _ activities.
+
+a. Change management
+b. Process
+c. Tracking and control
+d. None of the mentioned above
+Answer: C) Tracking and control
+6. What are the configuration management tools ?
+A. Ansible 
+B. Puppet 
+C. Saltstack 
+D. All the above 
+Ans: d
+7. …………………. is the process, which controls the changes made to a system and manages the different versions of the software project.
+A) Software maintenance
+B) Configuration management
+C) Software re-engineering
+D) Software refactoring                             
+ans: B
+
+8. What benefits can we gain by using automation to manage our configuration?
+a)consistency 
+b)simplicity 
+c)Reliability 
+d)scalability 
+e) a,c  and d 
+
+Ans:e
+9. Amongst which of the following is / are the elements of a configuration management system.
+
+a. Component elements, Process elements
+b. Construction elements, Human elements
+c. Both A and B
+d. None of the above
+Answer: C) Both A and B
+10.  A typical configuration management (CM) operational scenario involves a __ who is in charge of a software group.
+
+a. Project manager
+b. System engineer
+c. System administrator
+d. All of the mentioned above
+Answer: A) Project manager
+11. Which of the following is a configuration item?
+a) Design & Test specification
+b) Source code
+c) Log information
+d) All of the mentioned
+Ans: d
+12. What is the principle called when you think of networked machines as interchangeable resources instead of individual machines?
+a)flexible deployment 
+b)The Borg principle 
+c)Treating computers like cattle instead of pets
+d)The principle of group operation 
+
+Ans: c
+13. When computer is manually managed it's called? 
+A. Flake 
+B. Special snowflake 
+C. Snowflake 
+D. None 
+Ans : b
+14. The Configuration Management can be divided into two subsystems which are
+
+a. Reconfiguration and documentation
+b. Management and configuration
+c. Documentation and dialing up
+d. both a and c
+
+Answer: a
+ 15. Which of the following process is concerned with analysing the costs and benefits of proposed changes?
+
+a) Change management
+b) Version management
+c) System building
+d) Release management
+
+
+Answer: a
+Explanation: It involves approving those changes that are worthwhile, and tracking which components in the system have been changed.
+ 
+16. Which method recommends that very frequent system builds should be carried out with automated testing to discover software problems?
+
+a) Agile method
+b) Parallel compilation method
+c) Large systems method
+d) All of the mentioned
+
+
+Answer: a
+Explanation: In keeping with the agile methods notion of making many small changes, continuous integration involves rebuilding the mainline frequently, after small source code changes have been made.
+
+17. Which of the following option is not tracked by configuration management tools?
+a) Tracking of change proposals
+b) Storing versions of system components
+c) Tracking the releases of system versions to customers
+d) None of the mentioned
+
+Ans d
+[12:58 PM, 12/18/2021] Parvathi Kerala Ust: Q. Which of the following is a configuration item?
+
+a) Design & Test specification
+b) Source code
+c) Log information
+d) All of the mentioned
+
+
+Answer: d
+Explanation: A configuration item is an approved and accepted deliverable, changes have to be made through formal procedure.
+
+18. Which of the following process ensures that versions of systems and components are recorded and maintained?
+
+a) Codeline
+b) Configuration control
+c) Version
+d) Workspace
+
+
+Answer: b
+Explanation: In configuration control changes are managed and all versions of components are identified and stored for the lifetime.
+19. Which of the following categories is part of the output of software process?
+
+a) computer programs
+b) documents that describe the computer programs
+c) data
+d) all of the mentioned
+
+Answer: d
+20. Software Configuration Management can be administered in several ways. These include
+
+a) A single software configuration management team for the whole organization
+b) A separate configuration management team for each project
+c) Software Configuration Management distributed among the project members
+d) All of the mentioned
+
+
+Answer: a
+21.Configuration management is only important during development activity.
+
+a.True
+b. False
+
+Ans.false
+22. Which of the following is not a Software Configuration Management Activity?
+
+a) Configuration item identification
+b) Risk management
+c) Release management
+d) Branch management
+
+
+Answer: b
+Explanation: Risk management is an entirely different domain.

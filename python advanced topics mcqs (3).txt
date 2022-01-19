@@ -1,0 +1,239 @@
+1. What is output of print(math.pow(3, 2))?
+a) 9.0
+b) None
+c) 9
+d) None of the mentioned
+Answer: a
+math.pow() returns a floating point number.
+
+2. Which of the following is a feature of Python DocString?
+a) In Python all functions should have a docstring
+b) Docstrings can be accessed by the _doc_ attribute on objects
+c) It provides a convenient way of associating documentation with Python modules, functions, classes, and methods
+d) All of the mentioned
+Answer: d
+
+3. Who developed Python Programming Language?
+a) Wick van Rossum
+b) Rasmus Lerdorf
+c) Guido van Rossum
+d) Niene Stom
+View Answer
+
+Answer: c
+
+4.Which type of Programming does Python support?
+a) object-oriented programming
+b) structured programming
+c) functional programming
+d) all of the mentioned
+
+Ans d
+
+5. In python,a class is a ___ for a concrete object. 
+a)nuisance 
+b)blueprint 
+c)distraction 
+d)instance
+
+Ans:b
+
+6. Which of the following is the correct extension of the Python file?
+a) .python
+b) .pl
+c) .py
+d) .p
+
+Ans  c
+
+7.Which of the following is not a core data type in Python programming?
+a) Tuples
+b) Lists
+c) Class
+d) Dictionary
+
+Ans : c
+
+8. What will be the output of the following Python function?
+
+len(["hello",2, 4, 6])
+a) Error
+b) 6
+c) 4
+d) 3
+
+
+Answer: c
+
+Explanation: The function len() returns the length of the number of elements. Therefore the output of the function shown above is 4.
+
+9. What will be the data type of x after the following statement?
+x = {2015, 2016, 2017, 2018}
+
+1.  List
+2.  Set
+3.  Tuple
+4.  Dictionary
+
+Ans: set
+
+10. class Dog:
+    def _init_(self, name, age):
+        self.name = name
+        self.age = age
+
+The correct way to instantiate the above Dog class is:
+
+a)Dog.create("Rufus", 3)
+b)Dog("Rufus", 3)
+c)Dog._init_("Rufus", 3)
+d)Dog()
+
+Ans:b
+
+
+
+11. What will be the output after the following statements?
+x = 30
+y = 7
+x %= y
+print(x)
+
+1.  28
+2.  2
+3.  8
+4.  4
+
+Ans: 2
+
+12. What is the data type of x after the following statement?
+x = [7, 8, 9, 10]
+
+1.  Dictionary
+2.  Tuple
+3.  String
+4.  List
+
+Ans: list
+13.Which of the following statements is used to create an empty set in Python?
+a) ( )
+b) [ ]
+c) { }
+d) set()
+
+
+Answer: d
+
+Explanation: { } creates a dictionary not a set. Only set() creates an empty set.
+
+14. What type of language is Python?
+
+1.  Low-level Language
+2.  Top-level Language
+3.  Bottom-level Language
+4.  High-level language 
+
+Ans: 4
+
+15. Objects and class attributes are accessed using __ notation. 
+
+a).
+b)&
+c):
+d)%
+
+Ans: a
+
+16. Which of the following is immutable (values that cannot be changed)?
+
+1.  List
+2.  Dictionary
+3.  Set
+4.  Tuple
+
+Ans: 4
+
+17.What will be the output of the following Python expression?
+
+round(4.576)
+a) 4
+b) 4.6
+c) 5
+d) 4.5
+
+
+Answer: c
+
+Explanation: This is a built-in function which rounds a number to give precision in decimal digits. In the above case, since the number of decimal places has not been specified, the decimal number is rounded off to a whole number. Hence the output will be 5.
+
+18. In python, a function within a class definition is called a
+
+a)method
+b)class function 
+c)factory
+d)callable
+
+Ans:a
+
+19 . Select which true for Python function
+
+a) A function is a code block that only executes when called and always returns a value.
+
+b) A function only executes when it is called and we can reuse it in a program
+
+c) Python doesn’t support nested function.
+
+d) Python function is unique and executes frequently.
+
+Ans : b
+
+
+20.Which of the following is the correct extension of the Python file?
+a) .python
+b) .pl
+c) .py
+d) .p
+
+ Ans C
+
+21.Which is the correct operator for power(xy)?
+a) X^y
+b) X**y
+c) X^^y
+d) None of the mentioned
+
+Ans b
+
+22.Which one of these is floor division?
+a) /
+b) //
+c) %
+d) None of the mentioned
+
+Ans b
+
+
+
+23.Mathematical operations can be performed on a string.
+a) True
+b) False
+
+b
+
+24. Which of the following code uses the inheritance feature of Python?
+
+a)Class Foo: Pass
+b)Class Foo(object): passclass Hoo(object): pass
+c)Class Foo: passclass Hoo(Foo): pass
+d)None of the above code.
+
+Ans: c
+
+25. Which of the following statements is wrong about inheritance?
+a) Protected members of a class can be inherited
+b) The inheriting class is called a subclass
+c) Private members of a class can be inherited and accessed
+d) Inheritance is one of the features of OOP
+
+Answer: c
+Explanation: Any changes made to the private members of the class in the subclass aren’t reflected in the original members.

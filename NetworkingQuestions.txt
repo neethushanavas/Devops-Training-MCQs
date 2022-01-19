@@ -1,0 +1,143 @@
+Networking Questions
+
+1. How long is an IPv6 address?
+1)32 bits
+2)64 bits
+3)128 bytes
+4)128 bits
+Ans:128 bits
+
+2. What is the binary representation of this deciml form IP address: 10. 1. 23. 19?
+(a) 00001010.00000001.00010111.00010011
+(b) 00001110.00100001.00000111.00010011
+(c) 00101010.00110001.00010011.00010000
+(d) 00000000.00001111.00010100.00010111
+Ans- a
+
+3. In Class B, how many octets form the network portion?
+(a) 1 octet
+(b) 3 octets
+(c) 2 octets
+(d) 0 octets
+Ans - c
+
+4. Which of the following classes have default masks(Natural masks)?
+(a) Class A
+(b) Class B and C
+(d) Class E
+(d) Option a and b
+Ans - d
+
+5.Which type of topology is best suited for large businesses which must carefully control and coordinate the operation of distributed branch outlets?
+a) Ring
+b) Local area
+c) Hierarchical
+d) Star
+Ans - Star
+
+6.The term HTTP stands for?
+a.Hyper terminal tracing program
+b.Hypertext tracing protocol
+c.Hypertext transfer protocol
+d.Hypertext transfer program
+Answer: (c) Hypertext transfer protocol
+
+7. A proxy server is used as the computer?
+a.with external access
+b.acting as a backup
+c.performing file handling
+d.accessing user permissions
+Answer: (a) with external access
+
+8.Which software prevents the external access to a system?
+a.Firewall
+b.Gateway
+c.Router
+d.Virus checker
+Answer: (a) Firewall
+
+9.When the mail server sends mail to other mail servers it becomes _ ?
+a.SMTP client
+b.SMTP server
+c.Peer
+d.Master
+Answer: (a) SMTP client
+
+10.How many versions available of IP?
+a.6 version
+b.4 version
+c.2 version
+d.1 version
+Answer: (c) 2 version
+
+11. Full Form of TCP
+a). Transfer Control Protocol
+b). Transmission Control Protocol
+c). Transport Control Protocol
+d). Transport Changing Protocol
+Ans - b - Transmission Control Protocol
+
+12. DNS Full Form
+a). Domain Naming Service
+b). Domain Name Service
+c). Domain Name System
+d). Domain Network System
+Ans - c - Domain Name System
+
+13. Which Of the layers is present in OSI network model, but not in TCP/IP model
+a). Transport
+b). Sessions 
+c) Application
+Ans - b - Sessions
+
+14.The domain name int in the Domain Name System (DNS) is used in
+A)commercial
+B)educational institutions
+C)international organizations
+D)the U.S. armed forces
+Ans:C
+
+15.Transport layer protocols deals with?
+A)process to process communication
+B)application to application communication
+C) node to node communication
+D)none of the mentioned
+Ans:A
+
+16.What ip address Class allocates 8 bits for the host identification part?
+A) Class A
+B) Class B
+C) Class C
+D) Class D
+Ans:C
+
+17. How long is an IPv6 address?
+A.32 bits
+B.128 bytes
+C.64 bits
+D.128 bits
+Ans:128bits.
+
+18. What flavor of Network Address Translation can be used to have one IP address allow many users to connect to the global Internet?
+A.NAT
+B.Static
+C.Dynamic
+D.PAT
+Ans:PAT	
+19. What command is used to create a backup configuration?
+A.copy running backup
+B.copy running-config startup-config
+C.config mem
+D.wr mem
+Ans:B
+
+20. Where is a hub specified in the OSI model?
+A.Session layer
+B.Physical layer
+C.Data Link layer
+D.Application layer
+Ans:Physical layer
+
+
+
+

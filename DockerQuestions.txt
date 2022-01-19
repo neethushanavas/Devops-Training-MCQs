@@ -1,0 +1,144 @@
+MCQs ON DOCKER BASICS
+
+1. A Docker registry is a place to store and distribute Docker ...............
+a- Codes
+b- Images
+c- Files
+d- All of the above
+Ans: Images
+
+2. Containers that are running can be listened using the command?
+a docker ps
+b docker container ls -a
+c docker ps -a
+Ans a
+
+3. How you manage Docker images?
+A. Docker Hub
+B. Docker Registry
+C. Docker Swarm
+D. Both A & B
+Ans D
+
+4. What are the important features of Docker?
+A. Easy Modeling
+B. Version control
+C. Placement/Affinity
+D. All of the above
+ans D
+
+5. What is Docker Engine?
+A. an open source containerisation technology for building and containerising your applications
+B. operating system
+C. language
+D. read only template
+Ans A
+
+6. What are the steps for the Docker container life cycle?
+A. Build
+B. Pull
+C. Run
+D. All of the above
+ans D
+
+7. Command to run a container
+a- docker container run image_name
+b- docker build image_name .
+c- docker ps container/image_id
+ans - a - docker container run image_name
+
+8. Command to create an IMAGE
+a- docker create image image_name .
+b- docker build image_name . 
+c- image create image_name <directory>
+d- docker create image <directory>
+Ans - b- docker build image_name . 
+
+9. Command to create a network
+a- docker create network network_name
+b- docker network create network_name
+c-  docker network container_id create
+d- create docker network network_name
+Ans - b- docker network create network_name
+
+10. Who created Docker?
+a. Walter Dandy
+b. Solomon Hykes
+c. Wilbur Davenport
+d. Clarence Madison Dally
+answer:Solomen Hykes
+
+11. Docker was Developed in..........
+a. 2012
+b. 2013
+c. 2014
+d. 2015
+answer:2013
+
+12. ........command used for stopping a running container?
+a. $ docker kill
+b. $ docker rm
+c. $ docker stop
+d. $ docker start
+answer:$ docker kill
+
+13. What Dockerfile instruction must appear first in the file?
+a) Image
+b) env
+C) from
+d) run
+Ans:from
+
+14. Extension for Dockerfile
+a- .docker
+b- .yml
+c- .doc
+d- no extension
+Ans - d - No extension
+
+15. Which component of the docker implements  the docker API ?
+A) docker daemon
+B) docker client
+C) docker server
+D) container
+Ans:A
+
+16. The markup language used to write Docker configuration files is:
+a.JSON
+b.YAML
+c.XML
+d.HTML
+answer: yaml
+
+17. Information on how to build a Docker image is written in a file named:
+a. Dockerfile
+b. Jenkinsfile
+c. docker-compose
+d. dockerimage
+answer: Docker file
+
+18. The Docker logo is:
+a. a butler
+b. a sailboat
+c. an Octocat
+d. a whale
+answer: a Whale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

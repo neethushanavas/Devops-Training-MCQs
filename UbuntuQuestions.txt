@@ -1,0 +1,171 @@
+ALL QUESTIONS COMBINED 
+Topic UBUNTU
+
+1.	Command for changing users
+a)	sw
+b)	sd
+c)	cu
+d)	su
+e)	cd
+Ans - b - su
+
+2.	Command / keyword to exercise super user power
+a)	su
+b)	super
+c)	sudo
+d)	admin
+e)	config
+Ans - c - sudo
+
+3.	what is the full form of cd
+a)	Change data
+b)	Change directory
+c)	Combine directory
+d)	Collect data
+Ans - b - Change directory
+
+4.	Which of the following is true?
+a)	Ubuntu is an 8-bit OS
+b)	Ubuntu is a 64-bit OS 
+c)	Ubuntu is a 16-bit OS
+d)	Ubuntu is a 512-bit OS
+Ans - b - Ubuntu is a 64-bit OS
+
+5.	which command displays disk space usage
+a)	env		
+b)	ps		
+c)	df		
+d)	ls
+Ans – c
+
+6.	Which command is used to change the permission?
+a)	chmod		
+b)	chper	
+c)	per		
+d)	mode
+Answer - a
+
+7.	which command search all directory & sub directory available on root only?
+a)	find.type	
+b)	find / -type d		
+c)	find / 		
+d)	find
+Answer - b
+
+8.	In which directory can you store system user default files used for creating user directories?
+A.	/usr/tmp
+B.	/etc/default
+C.	/etc/skel
+D.	/etc/users
+Answer: Option C
+
+9.	This default linux directory contains many of the linux commands.
+a.	bin
+b.	doc
+c.	lib
+d.	info
+Answer – bin
+
+10.	 Which command is used to display the unix version?
+a.	kernel
+b.	uname -t
+c.	uname -r
+d.	uname -n
+Answer - uname -r
+
+11.	 Which shell is the default shell used on Linux systems?
+A.	csh
+B.	rsh
+C.	bash
+D.	tcsh
+Ans :  bash
+
+12.	 Which file contains the assignment of user’s home directories?
+A.	/etc/home
+B.	/etc/profile
+C.	/etc/passwd
+D.	/etc/users
+Ans: /etc/passwd
+
+13.	 To delete an user along with its home directory, the command is
+A.	userdel -d username
+B.	userdel -D username
+C.	userdel -r username
+D.	userdel -R username
+Ans C
+
+14.	 APT stands for?
+A)	Advance tool
+B)	Advanced packaging tool
+C)	Advance power tool
+D)	Advance package
+Ans: B
+
+15.	 What is an interface to the system reference for a program?
+a.	user
+b.	OS
+c.	man 
+d.	program
+Ans – man
+
+16.	 How to add a user?
+a.	sudo addusers
+b.	su – adduser
+c.	sudo useradd name
+d.	username
+Ans – c - sudo useradd name
+
+17.	 Who can do anything without any restrictions?
+a.	sudo user
+b.	all user
+c.	super user 
+d.	person
+Ans – c -super user
+
+18.	 How Linux provides a consistent interface to easily access all kinds of things?
+a.	by representing users
+b.	sockets
+c.	storage devices
+d.	By representing everything in file 
+Ans – d - By representing everything in file
+
+19.	 How do a file command tries to guess what kind of file based on a given filename?
+a.	filename
+b.	metadata
+c.	metadata and its contents
+d.	files
+Ans – c - metadata and its contents
+
+20.	Which of the following is true about ubuntu 20.04?
+a)	It can run Only in Intel Processor
+b)	It can run in system with 4GB RAM
+c)	It supports only IPv6 protocol
+d)	It works only in Ryzen Processor
+e)	It does not work on ARM architecture Processor
+Ans – b
+
+21.	 Core of operating system______
+a.	shell
+b.	kernel
+c.	terminal
+d.	command
+Ans : kernel
+
+22.	 The command do you use to create linux file system is
+a.	fsck
+b.	mkfs
+c.	mount
+d.	none of the above
+Ans : mkfs
+
+23.	 Which of the following directory contains configuration files in Linux?
+a ./dev/
+b ./etc/
+c ./bin/
+d ./root/
+Ans : /etc/
+
+24.	 The maximum filename size in Linux in bytes in 255.
+a.	True
+b.	False
+Ans : True

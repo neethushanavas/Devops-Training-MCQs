@@ -1,0 +1,155 @@
+
+---------------------------
+==>Questions On Kubernetes
+------------------------------
+
+40. What is the basic operational unit of Kubernetes?
+ a) Task
+ b) Pod
+ c) Nodes
+ d) Container
+
+ Ans: pod 
+
+41. Which one of the following can be considered as the primary data store of Kubernetes?
+ a) pod
+ b) node
+ c) etcd
+ d) None of above
+
+  Ans: etcd
+
+42. Kubernetes was developed by .................
+ a) Google
+ b) IBM
+ c) Microsoft
+ d) None of above
+
+  Ans: Google
+
+43. What is Kubernetes?
+ a) Portable platform 
+ b) Extensible platform
+ c) Open-source platform
+ d) All of the Above
+
+ Ans: All of the above
+
+44. In Kubernetes a node is ................
+ a) A worker Machine
+ b) A tool for starting a Kubernetes cluster on a local machine
+ c) developing tool
+ d) None of above
+
+  Ans: A worker machine
+
+45. What are the features of Kubernetes?
+A) Containerized infrastructure
+B) Auto-scalable infrastructure
+C) Higher density of resource utilization
+D) All of the above
+
+Ans: D
+
+46. Kubernetes is written in _
+A) C++
+B) Python
+C) Go
+D) Java
+
+Ans: C
+
+47. _ runs on each node and ensures containers are running in a pod.
+A) etcd
+B) Pod
+C) Kubelet
+D) Scheduler
+
+Ans: C
+
+48.Kubernetes version 1.8 introduced _
+A) Secrets
+B) Taints and Tolerations
+C) Federated Clusters
+D) Cluster level Logging
+
+Ans: B
+
+49. Which of the following are core Kubernetes Objects?
+A) Pods
+B) Volumes
+C) Services
+D) All of them
+
+Ans: D
+
+50.Kubernetes Network proxy runs on which node?
+A) Master Node
+B) Worker Node
+C) CIDR Node
+D) Both A & B
+
+Ans: D
+
+51. There are ............ types of Pods in Kubernetes?   
+   
+A) 2   
+B) 3   
+C) 4   
+D) 6   
+   
+Ans: A   
+   
+52. Which of the followings are the Kubernetes Node Components?   
+   
+A) Docker   
+B) Kubelet Service   
+C) Kubernetes Proxy Service   
+D) All of the above   
+   
+Ans: D   
+   
+53. Kubernetes API currently supports ........... type of selectors.   
+   
+A) Set-based selectors   
+B) Equality-based selectors   
+C) both Set-based & Equality-based selectors   
+D) None of the above   
+   
+Ans: C
+
+54. What is the use of Google Kubernetes Engine?
+A)  Resize application controllers
+B) Debug container clusters
+C) Update and upgrade container clusters
+D) All of the Above                                                                            
+Ans: D 
+
+                                                                                                                                                                                          55. ……………. are the Kubernetes controllers.
+A) Deployment
+B) Replica Set
+C) Both Deployment & Replica Set
+D) None of the above                                                                                                                                                                       Ans: C       
+
+56. The different services within Kubernetes are _.
+A) Cluster IP service
+B) Node Port service
+C) Load Balancer service
+D) All of the above                                                                                                                                                                       Ans: D                                                                                                                                                                                            
+
+57. ___ are the types of Kubernetes pods.
+A) Single Container Pod
+B) Double Container pods
+C) Multi Container pods
+D) Both A and C                                                                                                                                                                          Ans: D
+
+58. ___ is the platform using which you can pass commands to the cluster.
+A) Minikube
+B) Kubectl
+C) Kubelet
+D) None of the above                                                                                                                                                                      Ans: B                                                                                                                                                                                    59. Which Operating System does Kubernetes run on?
+A) Windows
+B) Linux
+C) OS X
+D) FreeBSD
+Ans: A

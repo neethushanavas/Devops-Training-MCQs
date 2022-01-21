@@ -1,0 +1,71 @@
+------------------------
+==>Linux Basics:
+------------------------
+
+16. which is the flavour of Linux ?
+a)Debian    b) Redhat   c) both a & b   d) none of these
+ans :- c
+
+17. Gento , Slackware and ArcLinux are the types of ___ ?
+a) Chrome OS   b) Linux   c)  ios   d) Mac OS 
+ans :- b
+
+18. What are the variety way to run Linux ?
+a) Dual boot windows + Linux   b) virtual Machine   c) Docker   d) All of these 
+ans:- d
+
+19. Linux is similar to
+a) Windows  b)Macos   c)Unix  d)Android
+ans:-c
+
+20. How can we perform hardware actions through software?
+a)By using command prompt      b)By using Command Line       c)By using Command Star  d)By using Command face
+ans:- b
+
+21. Example for container in linux:
+a)Docker    b)Ansible    c)Ubuntu     d)Shell
+ans:- a
+
+22. One of the major contributors to LInux OS
+a)Oracle   b)Ubuntu    c)Red Socks     d)Red Hat
+ans:- d
+
+23. What is the Linux flavour which runs from CD
+a) Knopix    b)  suse         c) Fedora      d) Ubuntu
+Ans. A
+
+24. core of Linux operating system is
+a)  Shell    b) Kernal    c) Terminal    d)  Command
+Ans. B
+
+25. which operating system is not based on UNIX
+a)  unix   b)  symbian   c) windows   d) amigaOS
+Ans. C
+
+26. What are the windows features need to ON before installing the Ubuntu in our system ?
+a) Virtual machine platform     b) Windows powershell 2.0    c) Windows subsystem for Linux   d) All of these 
+ans :- d
+
+27. What does the  Dollar sign ($) represents in the Linux terminal ?
+a) Normal user   b) System administrator    c) both a & b   d) None of these 
+ans :- a
+
+28. which one is the example of Ubuntu ?
+a)LinuxMint   b) RHEL   c) Fedora   d)chromeOS
+ans:-a
+
+29. which of the following is not a flavor of linux?
+a)Debian   b)Susan    c)Redhat      d)Fedora
+ans: b
+
+30. Which command is used to display the operating systen name
+a)OS     b)unix    c) kernel      d)unname
+ans:d
+
+31. core of Linux operating system is _____
+a)Shell      b)kernel        c)Terminal         d)Command
+ans:b
+
+32. In linux OS_________command is used to know which directory you are in:
+a)chkdir       b)cd       c)pwd       d) None of these
+ans: c

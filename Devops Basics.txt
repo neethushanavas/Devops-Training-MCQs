@@ -1,0 +1,50 @@
+
+==>Devops Basics:
+-----------------
+
+
+33. System Testing is a ______. 
+ A)Black box testing
+ B)White box testing
+ C)Grey box testing
+ D)Both a and b
+ Ans:B
+34. Verifying that whether software components are functioning correctly and identifying the defects in them is objective of which level of testing? 
+ A)Integration Testing
+ B)Acceptance Testing
+ C)Unit Testing
+ D)System Testing
+ Ans:C
+35. When is Acceptance Testing performed in Agile development? 
+ A)On request of customer
+ B)After system is ready
+ C)At the end of each iteration
+ D)Daily
+ Ans:C
+36. What is DevOps?
+a) Developers performing operations
+b) A small team of people that own everything related to a particular service
+c) Developers and Operations team members working together
+d) I have no idea
+ans :- b
+
+37. DevOps culture is about ___ between Dev and Ops​
+a) Collaboration
+b) Speed
+c) Stability
+d) Love
+ans :- a
+
+38. At a high level, what is the value of continuous integration?​
+a) Reduce risks​
+b) Reduce repetitive manual processes​
+c) Generate deployable software at any time and at any place​
+d) All of the above​
+ans :- d
+
+39. The ____ is a process followed for a software project, within a software organization.
+a) DevOps
+b) ITIL
+c) SDLC
+d) Lifecycle
+ans :- c

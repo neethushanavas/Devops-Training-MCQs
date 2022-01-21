@@ -1,0 +1,68 @@
+---------------------------------------
+==>RedHat Linux Enterprise Edition 
+--------------------------------------
+
+1. How can a user rename a file in Red Hat Linux? 
+A) mv command B) cp command C) cd command D) none of these 
+Ans: A 
+
+2. Which Command Is Used To Check The Kernel Version ? 
+A) uname -r B) uname - c  C) uname - x D) uname - o 
+Ans: A
+ 
+3. The trial version of Linux is called 
+A) Alpha B) Beta C) Gamma D)Stable 
+Ans: B 
+
+4. SA is also Known as root user or 
+A) Supervisor B) Muilti user C) Single user D) Super user 
+Ans: D
+ 
+5.Who is primarily responsible for the smooth functioning of the system? 
+A) System Advisor B) System Coordinator C)System Manager D) System Administrator 
+Ans: D 
+
+6. by default,which of the following commands configures the current run level? 
+a.chkconfig b.pstree c.service d.ntsysv 
+Ans:- D 
+
+7. Which of the following commands will you run to list all files that have been modified within the last 60 minutes? 
+A. find /etc -name *.txt 
+B. find start -dir -min -60 
+C. find start -dir -cmin -60 
+D. find start -cmin -60
+Ans: C
+ 
+8. What is the minimum RAM requirement for installing Red Hat in GUI mode? 
+A.1GB B.512MB C.128MB D. 64MB 
+Ans. C 
+
+9. which of the following commands is used to mount file systems? 
+A. detach B. mount C. unmount D. attach 
+Ans. B 
+
+10. In a Linux computer, which of the following files defines run levels for the processes to be 
+started up during boot up? 
+A. /etc/inittab B. /etc/syslog.conf C. /etc/lilo.conf D. /etc/run level 
+Ans. A 
+
+11. How to show currently loaded Kernel modules? 
+A)Kernshow B)lsmodules C)modshow D)lsmod 
+Ans: D 
+
+12. To find the version of redhat in use you can: 
+A) unmae -a B) none will work C) cat /etc/redhat-release D)either will work 
+Ans: C 
+
+13. How would you create a disk dump in RedHat Linux? 
+A) dd if=/dev/sda of=/dev/sdb B) restore /dev/sda /dev/sdb C) fsck2 /dev/sda /dev/sdb 
+D)mk4ext /dev/sda /dev/sdb 
+Ans: A 
+
+14. What does Red Hat provides ? 
+a) production-ready code b) life-cycle management c) software interoperability d) All of these
+Ans: D
+
+15. what is default file system of RHEL 7? 
+A. Xfs B. Sfs C.Ifs D. Nfs 
+Ans: A
